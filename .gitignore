@@ -1,4 +1,5 @@
-./venv
-./__pycache__
-./results
-./data
+/venv
+/__pycache__
+/results
+/data
+/logs
